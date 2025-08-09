@@ -1,0 +1,49 @@
+{
+  "name": "ngamumule-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-powered Sundanese language learning platform preserving West Java cultural heritage",
+  "keywords": [
+    "sundanese",
+    "language-learning",
+    "cultural-preservation",
+    "ai-tutor",
+    "indonesia",
+    "west-java",
+    "traditional-music",
+    "cultural-heritage"
+  ],
+  "homepage": "https://github.com/sanimiftah/Ngamumule-AI",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanimiftah/Ngamumule-AI.git"
+  },
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^2.0.7",
+    "@headlessui/react": "^2.2.7",
+    "@heroicons/react": "^2.2.0",
+    "ai": "^5.0.8",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.539.0",
+    "next": "15.4.6",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20.19.10",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.4.6",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
