@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/"
+  to = "/learn/sundanese"
+  status = 301
+  force = true
