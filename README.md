@@ -1,22 +1,26 @@
-# Ngamumule AI - Sundanese Language Learnin### Cultural Features
+# Ngamumule AI – Sundanese Language Learning Platform
 
-- **Traditional Music Player** - Authentic Sundanese instrumental recordings
-- **Story Collection** -## Cultural Impact & Mission
+## Cultural Features
 
-Ngamumule AI is more than a language learning app - it's a cultural preservation initiative:
+- **Traditional Music Player** – Authentic Sundanese instrumental recordings
+- **Story Collection** – Cultural Impact & Mission
 
-- **Heritage Preservation** - Digitizing and preserving Sundanese cultural knowledge
-- **Community Building** - Connecting Sundanese speakers worldwide
-- **Educational Innovation** - Modern technology serving traditional wisdom
-- **Cultural Bridge** - Making Sundanese culture accessible globally
-- **Intergenerational Learning** - Helping families maintain cultural connectionsy tales like Sangkuriang and Lutung Kasarung
-- **Cultural Landmarks** - Virtual tours of historical sites
-- **Traditional Food** - Culinary culture and recipes
-- **Performing Arts** - Wayang Golek, traditional dances, and ceremoniesorm
+Ngamumule AI is more than a language learning app – it's a cultural preservation initiative:
 
-**Ngamumule** means "to learn" in Sundanese - A comprehensive AI-powered language learning platform dedicated to preserving and teaching the beautiful Sundanese language and culture of West Java, Indonesia.
+- **Heritage Preservation** – Digitizing and preserving Sundanese cultural knowledge
+- **Community Building** – Connecting Sundanese speakers worldwide
+- **Educational Innovation** – Modern technology serving traditional wisdom
+- **Cultural Bridge** – Making Sundanese culture accessible globally
+- **Intergenerational Learning** – Helping families maintain cultural connections (e.g., tales like Sangkuriang and Lutung Kasarung)
+- **Cultural Landmarks** – Virtual tours of historical sites
+- **Traditional Food** – Culinary culture and recipes
+- **Performing Arts** – Wayang Golek, traditional dances, and ceremonies
 
-Built with Next.js 15, TypeScript, and Tailwind CSS, this modern web application combines cutting-edge AI technology with rich cultural content to create an immersive learning experience.
+---
+
+**Ngamumule** means "to learn" in Sundanese – a comprehensive AI-powered language learning platform dedicated to preserving and teaching the beautiful Sundanese language and culture of West Java, Indonesia.
+
+Built with **Next.js 15**, **TypeScript**, and **Tailwind CSS**, this modern web application combines cutting-edge AI technology with rich cultural content to create an immersive learning experience.
 
 ## What We've Built
 
