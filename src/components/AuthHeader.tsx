@@ -52,7 +52,7 @@ export function AuthHeader({ user, progress, onSignIn, onSignUp, onSignOut }: Au
   }
 
   return (
-    <div className="relative flex items-center gap-4">
+    <div className="relative flex items-center w-full gap-2 md:gap-4 px-2 md:px-4 py-2 justify-between">
       {/* User Stats */}
       <div className="hidden md:flex items-center gap-4 text-sm">
         <div className="flex items-center gap-1 px-3 py-1 bg-yellow-100 rounded-full">
@@ -66,17 +66,17 @@ export function AuthHeader({ user, progress, onSignIn, onSignUp, onSignOut }: Au
       </div>
 
       {/* User Menu */}
-      <div className="relative">
+      <div className="relative flex-1 flex justify-end">
         <button
           onClick={() => setShowProfileMenu(!showProfileMenu)}
-          className="flex items-center gap-3 px-3 py-2 bg-gray-100 rounded-lg hover:bg-gray-200 transition-colors"
+          className="flex items-center gap-2 md:gap-3 px-2 md:px-3 py-2 bg-gray-100 rounded-lg hover:bg-gray-200 transition-colors min-w-0"
         >
-          <div className="w-8 h-8 bg-teal-600 rounded-full flex items-center justify-center">
+          <div className="w-8 h-8 bg-teal-600 rounded-full flex items-center justify-center flex-shrink-0">
             <User className="h-5 w-5 text-white" />
           </div>
-          <div className="hidden md:block text-left">
-            <div className="text-sm text-gray-600">Sugeng rawuh,</div>
-            <div className="font-semibold text-gray-900">{user.preferredName || user.username}</div>
+          <div className="truncate hidden md:block text-left">
+            <div className="text-sm text-gray-600 truncate">Sugeng rawuh,</div>
+            <div className="font-semibold text-gray-900 truncate">{user.preferredName || user.username}</div>
           </div>
         </button>
 
